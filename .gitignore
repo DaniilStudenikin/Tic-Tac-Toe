@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Problems/Cinema/out/
+/Problems/Cinema/out/production/classes/
+/Problems/Fix compile-time errors/out/
+/Problems/Fix compile-time errors/out/production/classes/
+/Tic-Tac-Toe/task/build/
+/Tic-Tac-Toe/task/out/
+/Tic-Tac-Toe/task/out/production/classes/
